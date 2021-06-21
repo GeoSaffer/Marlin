@@ -388,6 +388,7 @@
 #define BOARD_ANET_ET4P               4228  // ANET ET4P V1.x (STM32F407VGT6)
 #define BOARD_FYSETC_CHEETAH_V20      4229  // FYSETC Cheetah V2.0
 
+#define BOARD_INDEX_REV02             4232  // INDEX (STM32F407VE6/VG6)
 
 //
 // ARM Cortex M7
